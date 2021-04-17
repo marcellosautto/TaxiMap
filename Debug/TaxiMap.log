@@ -1,0 +1,9 @@
+﻿  TaxiMap.cpp
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(27,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(28,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(29,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(30,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(36,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(18,12): warning C4101: 'k': unreferenced local variable
+D:\VS_Projects\TaxiMap\TaxiMap.cpp(18,15): warning C4101: 'l': unreferenced local variable
+  TaxiMap.vcxproj -> D:\VS_Projects\TaxiMap\Debug\TaxiMap.exe
